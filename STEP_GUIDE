@@ -1,1 +1,28 @@
 STEP_GUIDE
+# BHARATconnect - Complete Setup Guide 🚀
+
+## 🔧 Prerequisites (Pehle Install Karo)
+
+### 1. Java Development Kit (JDK) 11+
+Download from: https://www.oracle.com/java/technologies/downloads/
+
+### 2. Maven (Java Package Manager)
+Download from: https://maven.apache.org/download.cgi
+
+### 3. Flutter SDK
+Download from: https://flutter.dev/docs/get-started/install
+
+### 4. MongoDB Community Edition
+Download from: https://www.mongodb.com/try/download/community
+
+### 5. Python 3.8+
+Download from: https://www.python.org/downloads/
+
+### 6. Git
+Download from: https://git-scm.com/
+
+## 📥 Clone Repository
+
+```bash
+git clone https://github.com/himanshsingh9296-gif/BHARATconnect.git
+cd BHARATconnect
